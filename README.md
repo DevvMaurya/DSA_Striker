@@ -1,4 +1,5 @@
 GUI .. less distraction.
+
 ![image](https://github.com/DevvMaurya/DSA_Striker/assets/105772302/f34a1d1f-d50a-47a9-a9b8-66793fe0ceb4)
 
 # you can use this application.
